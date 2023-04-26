@@ -9,5 +9,5 @@ The application has a similar operation mode as Blender:
 
 ## Getting Started
 ### Windows & Visual Studio
-run genProject.bat  
-edit "vs2019" to other version if you are not using visual studio 2019
+Run "genProject.bat" to generate visual studio 2019 solution.  
+Edit "vs2019" to other version if you are not using visual studio 2019.
