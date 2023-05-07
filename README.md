@@ -1,4 +1,4 @@
-# CubeEngine
+# CubeEditor2
 
 This is an application created base on the framework of "Hazel Engin" (https://github.com/TheCherno/Hazel)
 
