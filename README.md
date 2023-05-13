@@ -2,9 +2,7 @@
 
 This is an application created base on the framework of "Hazel Engin" (https://github.com/TheCherno/Hazel), which has an core with abstract of application, windows, layers, rendering APIs, and has its own event system and keycodes.  
 
-This Application abstracts scene, cube and camera into classes. 
-
-The application has a similar operation mode as Blender:
+This Application abstracts scene, cube and camera into classes, and can be used for modeling.
 ![](https://github.com/YanZhu00/CubeEngine/blob/main/gif/1.gif)
 
 ## Getting Started
