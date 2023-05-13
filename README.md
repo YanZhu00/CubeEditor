@@ -8,4 +8,4 @@ This Application abstracts scene, cube and camera into classes, and can be used 
 ## Getting Started
 ### Windows & Visual Studio
 Run "genProject.bat" to generate visual studio 2019 solution.  
-Edit "vs2019" to other version if you are not using visual studio 2019.
+If you use other visual studio version, just modify "vs2019" in "genProject.bat".
