@@ -4,6 +4,7 @@ This is an application created base on the framework of "Hazel Engin" (https://g
 
 This application is developed using ImGui and OpenGL. It abstracts scene, hierarchy, cube and camera into classes, and can be used for modeling.
 ![](https://github.com/YanZhu00/CubeEngine/blob/main/gif/screenshot.png)
+
 ![](https://github.com/YanZhu00/CubeEngine/blob/main/gif/1.gif)
 
 ## Getting Started
