@@ -1,9 +1,8 @@
 # CubeEditor2
 
-This is an application created base on the framework of "Hazel Engin" (https://github.com/TheCherno/Hazel)
+This is an application created base on the framework of "Hazel Engin" (https://github.com/TheCherno/Hazel), which has an core with abstract of application, windows, layers, rendering APIs, and has its own event system and keycodes.  
 
-It has an core with abstract of application, windows, layers, rendering APIs, and has its own event system and keycodes.  
-The Application abstracts scene, cube and camera into c++ classes. 
+This Application abstracts scene, cube and camera into classes. 
 
 The application has a similar operation mode as Blender:
 ![](https://github.com/YanZhu00/CubeEngine/blob/main/gif/1.gif)
